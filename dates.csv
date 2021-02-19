@@ -8,10 +8,10 @@ id,day,month,year,season,isWeekend,isHoliday
 6,7,4,2020,summer,False,False
 7,8,4,2020,summer,False,False
 8,9,4,2020,summer,False,False
-9,10,4,2020,summer,False,False
+9,10,4,2020,summer,False,True
 10,11,4,2020,summer,False,False
 11,12,4,2020,summer,False,False
-12,13,4,2020,summer,True,False
+12,13,4,2020,summer,True,True
 13,14,4,2020,summer,False,False
 14,15,4,2020,summer,False,False
 15,16,4,2020,summer,False,False
@@ -21,7 +21,7 @@ id,day,month,year,season,isWeekend,isHoliday
 19,20,4,2020,summer,True,False
 20,21,4,2020,summer,False,False
 21,22,4,2020,summer,False,False
-22,23,4,2020,summer,False,False
+22,23,4,2020,summer,False,True
 23,24,4,2020,summer,False,False
 24,25,4,2020,summer,False,False
 25,26,4,2020,summer,False,False
@@ -46,7 +46,7 @@ id,day,month,year,season,isWeekend,isHoliday
 44,15,5,2020,summer,False,False
 45,16,5,2020,summer,False,False
 46,17,5,2020,summer,False,False
-47,18,5,2020,summer,True,False
+47,18,5,2020,summer,True,True
 48,19,5,2020,summer,False,False
 49,20,5,2020,summer,False,False
 50,21,5,2020,summer,False,False
@@ -90,7 +90,7 @@ id,day,month,year,season,isWeekend,isHoliday
 88,28,6,2020,summer,False,False
 89,29,6,2020,summer,True,False
 90,30,6,2020,summer,False,False
-91,1,7,2020,summer,False,False
+91,1,7,2020,summer,False,True
 92,2,7,2020,summer,False,False
 93,3,7,2020,summer,False,False
 94,4,7,2020,summer,False,False
