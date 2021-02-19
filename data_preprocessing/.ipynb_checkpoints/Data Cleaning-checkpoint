@@ -1,0 +1,12 @@
+Data Cleaning
+
+
+open csv
+
+Keep data from Ottawa, Ontario
+Toronto, Ontario
+
+Keep data from 2020-04-01 to 2020-07-31
+
+save to csv
+
