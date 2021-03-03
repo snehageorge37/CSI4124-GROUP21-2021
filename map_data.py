@@ -62,8 +62,22 @@ def handle_weather():
     print(weather.head())
     weather.to_csv("data_preprocessing/weather_dimension.csv", index=True)
 
+def handle_special_measures():
+    sm = pd.read_csv("special_measures.csv")
+    s_dates = []
+    e_dates = []
+    print(sm.head())
+    for index, row in sm.iterrows():
+        s_dates.append(get_date(str(row['StartDate'])))
+        e_dates.append(get_date(str(row['EndDate'])))
+    sm['start_date_id'] = s_dates
+    sm['end_date_id'] = e_dates
+    print(sm.head())
+    sm.to_csv("special_measures.csv", index=True)
+
 
 load_dates()
 print(date_ids)
 handle_mobility()
 handle_weather()
+handle_special_measures()
