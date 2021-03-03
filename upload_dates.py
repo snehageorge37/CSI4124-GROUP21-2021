@@ -1,7 +1,7 @@
 import psycopg2
 import csv
 
-con = psycopg2.connect(database="group_21", user="togun062", password="Ad6jyqyv8p", host="www.eecs.uottawa.ca",
+con = psycopg2.connect(database="group_21", user="togun062", password="********", host="www.eecs.uottawa.ca",
                        port="15432")
 
 print("Database opened successfully")
