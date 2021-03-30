@@ -1,3 +1,3 @@
-Reporting_PHU_ID,Reporting_PHU,Reporting_PHU_Address,Reporting_PHU_City,Reporting_PHU_Postal_Code,Reporting_PHU_Latitude,Reporting_PHU_Longitude
-3895,Toronto Public Health,"277 Victoria Street, 5th Floor",Toronto,M5B 1W2,43.65659125,-79.37935801
-2251,Ottawa Public Health,100 Constellation Drive,Ottawa,K2G 6J8,45.3456651,-75.7639122
+Reporting_PHU_ID,Reporting_PHU,Reporting_PHU_Address,Reporting_PHU_City,Reporting_PHU_Postal_Code,Reporting_PHU_Latitude,Reporting_PHU_Longitude,surrogate_key
+3895,Toronto Public Health,"277 Victoria Street, 5th Floor",Toronto,M5B 1W2,43.65659125,-79.37935801,0
+2251,Ottawa Public Health,100 Constellation Drive,Ottawa,K2G 6J8,45.3456651,-75.7639122,1
